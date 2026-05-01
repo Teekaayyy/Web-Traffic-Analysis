@@ -21,7 +21,7 @@ Real website analysis answers questions that drive product and marketing decisio
 | Property | Detail |
 |----------|--------|
 | **Name** | Website Traffic and Engagement Dataset |
-| **Direct Link** | https://www.kaggle.com/datasets/anthonytherrien/website-traffic-and-engagement-metrics |
+| **Direct Link** | https://www.kaggle.com/datasets/anthonytherrien/website-traffic |
 | **Records** | 2,000+ sessions with per-session engagement metrics |
 | **Features** | Traffic source, pages visited, session duration, bounce, conversions |
 
